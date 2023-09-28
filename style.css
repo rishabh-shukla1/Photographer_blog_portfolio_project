@@ -1,0 +1,37 @@
+.blog
+{
+    position: sticky;
+    top:0;
+    left:0;
+    background-color: cornsilk;
+    color:red;
+    
+   
+    
+}
+.head{
+    text-align: center;
+    background-color: cornsilk;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.head h1{
+    color:violet;
+
+}
+.photos
+{
+   height: 300px;
+   width:320px;
+   border-radius: 20px;
+   left:50px;
+   margin:10px;
+  
+
+   
+}
+.image
+{
+    margin-left: 110px;
+    margin-right: 100px;
+}
